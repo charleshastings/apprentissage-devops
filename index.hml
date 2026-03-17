@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,7 +13,7 @@
         <h1> AgriTech Cameroon</h1>
         <p>Bienvenue, Charles Ivan.</p>
         <hr>
-        <p>Statut du systeme : <strong>Operationnel</strong></p>
+        <p>Statut du système : <strong>Opérationnel</strong></p>
     </div>
 </body>
 </html>
